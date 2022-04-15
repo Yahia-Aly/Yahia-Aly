@@ -4,7 +4,7 @@
 - I am skilled in Python, React, and Javascript mainly, automated testing libraries such as pytest, mocha, and jest, and technologies such as Jenkins, docker and Jira.
 - 👀 I’m interested in software development, automated testing, cybersecurity, nature-inspired computing, and telecommunications!
 - 💞️ I’m looking to collaborate on open source projects, including web-based apps, desktop-based apps, APIs, etc...
-- 📫 How to reach me: yhaly@mun.ca
+- 📫 How to reach me: check out my website at https://yahia-aly.github.io/ or email me at yhaly@mun.ca
 
 <!---
 Yahia-Aly/Yahia-Aly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
